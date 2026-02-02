@@ -11,7 +11,7 @@ The result is a model that can accurately predict whether an image has been mani
 
 - 📘 **IEEE Publication:** [View on IEEE Xplore](https://ieeexplore.ieee.org/document/10627878)
 - 🚀 **Live Demo:** **[Interactive Model Demonstration](https://image-tampering-detection-using-ela-and-cnn-v86ibufow7vt6qujq6.streamlit.app/#b6288492)**
-
+#
 System Architecture
 ![Uploading image.png…](https://github.com/RahulUmamahesha/Image-Tampering-Detection-using-ELA-and-CNN/blob/main/Images/archi.png)
 
